@@ -5,7 +5,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6352502454:AAHyIL24fv8ASt6YJw0Wej8Nvvp0
 API_ID = int(os.environ.get("API_ID", "14298205"))
 API_HASH = os.environ.get("API_HASH", "28df6d84da76d8606bf5f0e71ecfb62c")
 OWNER = int(os.environ.get("OWNER", "1458235021"))
-BOT_USERNAME = os.environ.get('BOT_USERNAME', "The_Renamer_bot")
+BOT_USERNAME = os.environ.get('BOT_USERNAME', "The_File_Renamer_Bot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "NAKFLIXTV ")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002031041556"))
